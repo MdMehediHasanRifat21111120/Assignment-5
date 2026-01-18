@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "1768497545748",
+      "firstName": "Md Mehedi Hasan ",
+      "lastName": "Rifat",
+      "email": "rifatahammed@gmail.com",
+      "phone": "018111111",
+      "address": "Gazipur Sadar, Gazipur\n",
+      "isFavorite": false,
+      "createdAt": "2026-01-15T17:19:05.748Z"
+    }
+  ]
+}
